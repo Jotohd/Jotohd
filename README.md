@@ -5,6 +5,7 @@
 [<img align="left" alt="jo_tohd | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="jo_tohd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="_jo_tohd_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 - 👀 I’m interested in coding Discord Bots and Minecraft Plugins.
 - 📫 How to reach me: https://discord.future-coding.de
 
@@ -19,7 +20,7 @@
 [twitter]: https://twitter.com/jo_tohd
 [youtube]: https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA
 [instagram]: https://instagram.com/_jo_tohd_
-[Click me!]: https://discord.gg/zAHfZpxQ42
+[discord]: https://discord.gg/zAHfZpxQ42
 <!---
 Jotohd/Jotohd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
