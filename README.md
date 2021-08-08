@@ -21,7 +21,7 @@
 #### More about me
 - My name is Joto
 - 13 y/o
-- I'm from NRW / Germany
+- I'm from Germany
 - I’m interested in coding Discord Bots and Minecraft Plugins
 
 #### Github Stats
