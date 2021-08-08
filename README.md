@@ -32,6 +32,4 @@
 [youtube]: https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA
 [instagram]: https://instagram.com/_jo_tohd_
 [LINK]: https://discord.gg/zAHfZpxQ42
-<!---
-Jotohd/Jotohd is cool
---->
+
