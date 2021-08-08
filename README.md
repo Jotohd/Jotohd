@@ -6,8 +6,9 @@
 - FutureMC
 
 #### How to reach me
-https://discord.future-coding.de
-
+- Discord: Jo_tohd#1071
+- My Discord: [LINK]
+- Email: soon
 
 #### Social Media
 
@@ -21,7 +22,6 @@ https://discord.future-coding.de
 - My name is Joto
 - 13 y/o
 - I'm from NRW / Germany
-- 
 - I’m interested in coding Discord Bots and Minecraft Plugins
 
 #### Github Stats
@@ -31,8 +31,7 @@ https://discord.future-coding.de
 [twitter]: https://twitter.com/jo_tohd
 [youtube]: https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA
 [instagram]: https://instagram.com/_jo_tohd_
-[discord]: https://discord.gg/zAHfZpxQ42
+[LINK]: https://discord.gg/zAHfZpxQ42
 <!---
-Jotohd/Jotohd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Jotohd/Jotohd is cool
 --->
