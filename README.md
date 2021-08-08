@@ -1,4 +1,10 @@
+###Hey, I'm Jotohd
+
 [![Discord](https://discord.com/api/guilds/823501466169114624/embed.png)](https://discord.gg/zAHfZpxQ42) [![Twitter Follow](https://img.shields.io/twitter/follow/jo_tohd.svg?style=social)](https://twitter.com/jo_tohd) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLikZfs-wfkX3kvxCbL41JA?style=social)](https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA) [![GitHub followers](https://img.shields.io/github/followers/jotohd?style=social)](https://github.com/Jotohd)
+
+###How to reach me
+https://discord.future-coding.de
+
 
 ###Social Media:
 
@@ -8,8 +14,7 @@
 [<img align="left" alt="Jotohd" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 
-- 👀 I’m interested in coding Discord Bots and Minecraft Plugins.
-- 📫 How to reach me: https://discord.future-coding.de
+- 👀 I’m interested in coding Discord Bots and Minecraft Plugins
 
 <details>
   <summary>My GitHub Stats</summary>
