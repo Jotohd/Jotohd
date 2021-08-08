@@ -1,6 +1,6 @@
 [![Discord](https://discord.com/api/guilds/823501466169114624/embed.png)](https://discord.gg/zAHfZpxQ42) [![Twitter Follow](https://img.shields.io/twitter/follow/jo_tohd.svg?style=social)](https://twitter.com/jo_tohd) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLikZfs-wfkX3kvxCbL41JA?style=social)](https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA) [![GitHub followers](https://img.shields.io/github/followers/jotohd?style=social)](https://github.com/Jotohd)
 
-Social Media
+###Social Media
 [<img align="left" alt="Jotohd" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jo_tohd | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="jo_tohd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
