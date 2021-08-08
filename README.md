@@ -8,6 +8,11 @@
 - 👀 I’m interested in coding Discord Bots and Minecraft Plugins.
 - 📫 How to reach me: https://discord.future-coding.de
 
+<details>
+  <summary>My GitHub Stats</summary>
+
+  <img align="left" alt="Jotohd's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jotohd&show_icons=true&theme=tokyonight" />
+
 <!---
 Jotohd/Jotohd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
