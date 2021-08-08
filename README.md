@@ -13,6 +13,13 @@
 
   <img align="left" alt="Jotohd's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jotohd&show_icons=true&theme=tokyonight" />
 
+  </details>
+
+[website]: https://jotohd.de
+[twitter]: https://twitter.com/jo_tohd
+[youtube]: https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA
+[instagram]: https://instagram.com/_jo_tohd_
+[Click me!]: https://discord.gg/zAHfZpxQ42
 <!---
 Jotohd/Jotohd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
