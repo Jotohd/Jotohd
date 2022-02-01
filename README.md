@@ -1,6 +1,6 @@
 ## Hey, I'm Jotohd
 
-[![Discord](https://img.shields.io/discord/823501466169114624?label=Discord&logo=discord&style=social)](https://discord.gg/zAHfZpxQ42) [![Twitter Follow](https://img.shields.io/twitter/follow/jo_tohd?style=social)][![GitHub followers](https://img.shields.io/github/followers/jotohd?style=social)](https://github.com/Jotohd)
+[![Discord](https://img.shields.io/discord/823501466169114624?label=Discord&logo=discord&style=social)](https://discord.gg/zAHfZpxQ42) [![Twitter Follow](https://img.shields.io/twitter/follow/jo_tohd?style=social)](https://twitter.com/jo_tohd)[![GitHub followers](https://img.shields.io/github/followers/jotohd?style=social)](https://github.com/Jotohd)
 
 #### Projects
 - FutureMC
