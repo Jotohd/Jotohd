@@ -1,6 +1,6 @@
 ## Hey, I'm Jotohd
 
-[![Discord](https://img.shields.io/discord/823501466169114624?label=Discord&logo=discord&style=social)](https://discord.gg/zAHfZpxQ42) [![Twitter Follow](https://img.shields.io/twitter/follow/jo_tohd.svg?style=social)](https://twitter.com/jo_tohd) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLikZfs-wfkX3kvxCbL41JA?style=social)](https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA) [![GitHub followers](https://img.shields.io/github/followers/jotohd?style=social)](https://github.com/Jotohd)
+[![Discord](https://img.shields.io/discord/823501466169114624?label=Discord&logo=discord&style=social)](https://discord.gg/zAHfZpxQ42) [![Twitter Follow](https://img.shields.io/youtube/channel/subscribers/UCLikZfs-wfkX3kvxCbL41JA?style=social)](https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA) [![GitHub followers](https://img.shields.io/github/followers/jotohd?style=social)](https://github.com/Jotohd)
 
 #### Projects
 - FutureMC
@@ -18,18 +18,10 @@
 [<img align="left" alt="Jotohd" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 
-#### More about me
-- My name is Joto
-- 13 y/o
-- I'm from Germany
-- I’m interested in coding Discord Bots and Minecraft Plugins
-
 #### Github Stats
   <img align="left" alt="Jotohd's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jotohd&show_icons=true&theme=tokyonight" />
 
-[website]: https://jotohd.de
+[website]: https://future-coding.de
 [twitter]: https://twitter.com/jo_tohd
-[youtube]: https://www.youtube.com/channel/UCLikZfs-wfkX3kvxCbL41JA
-[instagram]: https://instagram.com/_jo_tohd_
-[LINK]: https://discord.gg/zAHfZpxQ42
+[LINK]: https://discord.future-coding.de
 
