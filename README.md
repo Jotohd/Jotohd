@@ -11,18 +11,14 @@
 - sql
 - Python
 - Java
+- learning Kotlin...
 
 #### How to reach me
-- Discord: <a href="https://discord.com/users/718098786651471952">Jo_tohd#1071</a>
+- Discord: <a href="https://discord.com/users/718098786651471952">@jo_tohd</a>
 
-#### Social Media
-
-
-[<img align="left" alt="jo_tohd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
 
 #### Github Stats
   <img align="left" alt="Jotohd's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jotohd&show_icons=true&theme=tokyonight" />
 
-[twitter]: https://twitter.com/jo_tohd
+
 
